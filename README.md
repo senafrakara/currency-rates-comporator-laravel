@@ -34,7 +34,7 @@ Currency Comparator is a web application that fetches currency exchange rates fr
 
 2. Navigate to the project directory:
  ```bash
-cd currency-comparator
+cd currency-rates-comporator-laravel
  ```
 
 3.Install dependencies
