@@ -81,7 +81,7 @@ php artisan serve
  ```
 
 I used valet in this project, so when you want to serve project without artisan, you can use "park" command in valet.
-The park command registers a directory on your machine that contains your applications. Once the directory has been "parked" with valet, all of the directories within that directory will serve in your web browser at http://<directory-name>.test.
+The park command registers a directory on your machine that contains your applications. Once the directory has been "parked" with valet, all of the directories within that directory will serve in your web browser at http://<< directory-name >>.test.
 
 8. Create tables, these commands used:
  To create table for currency rates
